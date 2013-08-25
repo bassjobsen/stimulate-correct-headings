@@ -14,7 +14,9 @@ SEO
 ---
 
 > When the importance of a heading is established with HTML tags, you're actually making it easy for the search engine robots to determine what your web page is all about. The search engine doesn't have to guess at it. It can see exactly what your main topic is and place you under the appropriate keywords so your potential customers will be able to find you on the WWW.
+
 [Nov 18 '11, Rupesh Pawar](http://stackoverflow.com/a/8178353/1596547) 
+
 Also read: [The heading structure for your blog](http://yoast.com/blog-headings-structure/)
 
 Installation
