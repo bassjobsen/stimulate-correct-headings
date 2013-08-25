@@ -22,7 +22,7 @@ Also read: [The heading structure for your blog](http://yoast.com/blog-headings-
 Installation
 ------------
 
-[Download the latest version as .zip file](https://github.com/bassjobsen/woocommerce-twitterboostrap/archive/master.zip). Upload the .zip file to your Wordpress plugin directory (wp-content/plugin) and use the activate function in your dashboard.
+[Download the latest version as .zip file](https://github.com/bassjobsen/stimulate-correct-headings/archive/master.zip). Upload the .zip file to your Wordpress plugin directory (wp-content/plugin) and use the activate function in your dashboard.
 ( Plugins > installed plugins ).
 
 
