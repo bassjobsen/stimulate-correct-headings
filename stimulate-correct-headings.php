@@ -3,13 +3,13 @@
 Plugin Name: Stimulate Correct Headings
 Plugin URI: https://github.com/bassjobsen/stimulate-correct-headings
 Description: Stimulate editors to use correct headings for accessibility and seo
-Version: 0.0.1.
+Version: 1.0
 Author: Bass Jobsen
 Author URI: http://bassjobsen.weblogs.fm/
 License: GPLv2
 */
 
-/*  Copyright 2023 Bass Jobsen (email : bass@w3masters.nl)
+/*  Copyright 2013 Bass Jobsen (email : bass@w3masters.nl)
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
