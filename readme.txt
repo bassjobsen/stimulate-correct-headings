@@ -10,6 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This plugin stimulates WordPress editors to use correct headings for accessibility and seo.
 
+
 == Description ==
 
 This plugin stimulates WordPress editors to use correct headings for accessibility and seo. The heading tags are on the second row and hidden in the WYSIWYG editor in WordPress by default. The (non visual) text edit screen has no heading tag buttons at all.
